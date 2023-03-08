@@ -7,7 +7,7 @@ RPG game that developed for Arduino
 - Exit
 - Button(to stop music and go on with the game)
 
-##Class Choosing Menu
+## Class Choosing Menu
 - Berserk 
 - Mage 
 - Elf
